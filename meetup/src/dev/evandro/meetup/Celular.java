@@ -4,7 +4,7 @@ public class Celular {
 
 	public static void main(String[] args) {
 		//Valida Celular
-		String celular = "(11)95950-2839";
+		String celular = "(11)91234-5678";
 		
 		String padrao = "\\(\\d{2}\\)9\\d{4}\\-\\d{4}";
 		
